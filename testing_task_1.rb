@@ -49,7 +49,7 @@ if max(100,1) == 100
   puts "max(100,1) passed"
 else
   puts "func1(3) failed" #should be max(100,1) failed
-  failrues = failures + 1
+  failrues = failures + 1 #failures spelt wrong
 end
 
 
